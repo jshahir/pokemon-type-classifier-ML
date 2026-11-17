@@ -1,2 +1,4 @@
 # Pokemon Type Classification using multi-label machine learning
 This is archived code from a fun project I did in 2022 using TensorFlow to train a neural network that classifies Pokemon images according their elemental types. This took in over 15,000 images of 2D sprites of Pokemon across five iterations of Pokemon games and predicted their types. This was tested on Pokemon from a later iteration of games where the developers had shifted from 2D sprites to 3D models of Pokemon, and was able to make predictions of their types with high accuracy. You can read more about the details of the algorithm and motivations for this work in my accompanying Medium article: https://medium.com/data-science/multi-label-classification-of-pokemon-types-with-tensorflow-8217a38038a6
+
+Images were downloaded from PokeAPI. You can check them out here: https://github.com/PokeAPI/sprites/tree/master.
